@@ -16,4 +16,6 @@ When you clone this code I recommend you checkout the branch of the chapter you'
 $ git clone https://github.com/vuejsdevelopers/vuebnb.git -b ch-06
 ```
 
-> Loving Vue.js? Join [Vue.js Developers](https://vuejsdevelopers.com), a community of thousands of web developers passionate about learning and building with Vue.js.
+* * *
+
+*Loving Vue.js? Join [Vue.js Developers](https://vuejsdevelopers.com), a community of thousands of web developers passionate about learning and building with Vue.js.*
