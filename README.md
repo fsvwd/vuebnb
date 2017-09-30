@@ -13,7 +13,7 @@ The state of the code for different chapters has been applied to different branc
 When you clone this code I recommend you checkout the branch of the chapter you're working on. For example, to get the code for chapter 6:
 
 ```bash
-$ git clone https://github.com/vuejsdevelopers/vuebnb.git -b ch-06
+$ git clone https://github.com/fsvwd/vuebnb.git -b ch-06
 ```
 
 * * *
