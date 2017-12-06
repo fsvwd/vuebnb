@@ -19,6 +19,7 @@
     "font-awesome": "^4.7.0",
     "laravel-mix": "^1.4",
     "open-sans-all": "^0.1.2",
-    "vue": "^2.5.3"
+    "vue": "^2.5.3",
+    "vue-router": "^3.0.1"
   }
 }
