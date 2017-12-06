@@ -13,6 +13,4 @@ use Illuminate\Support\Facades\Storage as Storage;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/listing/{listing}', 'ListingController@get_listing_web');
