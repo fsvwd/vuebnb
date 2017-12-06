@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\Storage as Storage;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
