@@ -49,6 +49,7 @@
         line-height: 24px;
         color: #484848;
         font-weight: 300;
+        -webkit-appearance: none;
     }
 
     #login input {

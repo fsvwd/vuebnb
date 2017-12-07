@@ -71,4 +71,11 @@
         font-size: 14px;
         line-height: 18px;
     }
+
+    @media (max-width: 400px) {
+        .listing-summary .listing-save {
+            left: 15px;
+            right: auto;
+        }
+    }
 </style>

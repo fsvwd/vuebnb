@@ -12,7 +12,6 @@ yarn-error.log
 .env
 .env.node
 /public/images
-!/public/images/logo.png
 /public/css
 /public/js
 /public/fonts

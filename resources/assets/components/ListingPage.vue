@@ -17,13 +17,13 @@
             </div>
             <div class="lists">
                 <feature-list title="Amenities" :items="listing.amenities">
-                    <template scope="amenity">
+                    <template slot-scope="amenity">
                         <i class="fa fa-lg" :class="amenity.icon"></i>
                         <span>{{ amenity.title }}</span>
                     </template>
                 </feature-list>
                 <feature-list title="Prices" :items="listing.prices">
-                    <template scope="price">
+                    <template slot-scope="price">
                         {{ price.title }}: <strong>{{ price.value }}</strong>
                     </template>
                 </feature-list>

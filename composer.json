@@ -52,7 +52,7 @@
             "@php artisan package:discover"
         ],
         "post-install-cmd": [
-            "@php artisan passport:keys"
+            "@php artisan passport:install"
         ]
     },
     "config": {

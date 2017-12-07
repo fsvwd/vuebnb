@@ -1,3 +1,7 @@
+html, body {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   color: rgb(72,72,72);
@@ -73,4 +77,8 @@ button {
   font-size: 14px;
   display: inline-block;
   margin-bottom: 0;
+}
+
+input[type=text] {
+  -webkit-appearance: none;
 }

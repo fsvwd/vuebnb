@@ -4,7 +4,7 @@
         <div :class="containerClass">
             <p>
                 <img class="icon" :src="logoUrl">
-                <strong>Vuebnb</strong>. A full-stack Vue.js and Laravel demo app.
+                <span><strong>Vuebnb</strong>. A full-stack Vue.js and Laravel demo app.</span>
             </p>
         </div>
     </div>
@@ -39,6 +39,11 @@
 
     #footer p {
         font-size: 15px;
-        color: #767676 !important
+        color: #767676 !important;
+        display: flex;
+    }
+
+    #footer p img {
+        padding-right: 6px;
     }
 </style>
