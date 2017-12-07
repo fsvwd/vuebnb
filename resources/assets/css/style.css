@@ -44,6 +44,17 @@ body {
   }
 }
 
+.login-container {
+  margin: 0 auto;
+  padding: 0 12px;
+}
+
+@media (min-width: 374px) {
+  .login-container {
+    width: 350px;
+  }
+}
+
 hr {
   border: 0;
   border-top: 1px solid #dce0e0;
@@ -66,4 +77,8 @@ button {
   font-size: 14px;
   display: inline-block;
   margin-bottom: 0;
+}
+
+input[type=text] {
+  -webkit-appearance: none;
 }
